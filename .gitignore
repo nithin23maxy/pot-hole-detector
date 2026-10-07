@@ -1,5 +1,7 @@
 node_modules/
+dist/
+*.log
+.env
 server/uploads/
 server/database/*.db
 server/controllers/.env
-.env
